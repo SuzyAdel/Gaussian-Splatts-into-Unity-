@@ -34,7 +34,9 @@ I wrote a command to trim the video to a few seconds whree the video is how=ceri
 3. start Brush to create Gaussian Splat Training
 - Download from
 - https://github.com/ArthurBrussee/brush/releases
+  
 Training Process: 
+
 https://github.com/user-attachments/assets/565afdfe-79ff-48e2-ae40-363f44d39bc5
 
 
