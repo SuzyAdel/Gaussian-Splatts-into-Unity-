@@ -25,9 +25,22 @@ I wrote a command to trim the video to a few seconds whree the video is how=ceri
  - try alignment and remove small (noise compartments) and repeat aligning , this improves quality
  - ulter settings again to orginal down sca;e and error reprojection 
 <img width="421" height="422" alt="image" src="https://github.com/user-attachments/assets/af485a4f-8eda-43aa-bf2e-83a060be89e7" />
+- export settings to colmap , as images with orginal namimg
+- <img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/bddff2eb-14ef-4a35-9dda-840e2fd85d99" />
+
+<img width="1146" height="922" alt="image" src="https://github.com/user-attachments/assets/29de3639-cf3b-4ecd-b5c7-6d47dec53241" />
 
 
-3. 
+3. start Brush to create Gaussian Splat Training
+- Download from
+- https://github.com/ArthurBrussee/brush/releases
+Training Process: 
+https://github.com/user-attachments/assets/565afdfe-79ff-48e2-ae40-363f44d39bc5
+
+
+
+
 4. 
 5. 
 6. 
+7. 
