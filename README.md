@@ -4,6 +4,14 @@ Aim : turn a video streram of a drone into a world on unity with the least point
 
 What is Gaussian Splatt?
 
+
+
+https://github.com/user-attachments/assets/6151d592-95f9-4596-a79b-274bd1fe4e91
+
+
+
+
+
 <img width="603" height="232" alt="image" src="https://github.com/user-attachments/assets/9e2315d0-dc8c-4b06-a323-d2b3530a2a91" />
 
 
@@ -37,10 +45,15 @@ I wrote a command to trim the video to a few seconds whree the video is how=ceri
   
 Training Process: 
 
-https://github.com/user-attachments/assets/565afdfe-79ff-48e2-ae40-363f44d39bc5
 
 
 
+https://github.com/user-attachments/assets/ce0f6f73-c3c2-4517-9d16-d7d31d76b898
+
+
+<img width="1919" height="1020" alt="image" src="https://github.com/user-attachments/assets/c3f0aa2a-b54f-4d6c-a876-7c75a91afbee" />
+
+then export as ply , if we need to remove a bacground edit or clean we can use super splat but it is good enough to take from there and import on unity 
 
 4. 
 5. 
