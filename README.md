@@ -70,9 +70,24 @@ link: https://github.com/aras-p/UnityGaussianSplatting
    
 <img width="1857" height="820" alt="image" src="https://github.com/user-attachments/assets/be559b5c-fe69-4d5c-9d86-e57829e6f218" />
 
-6. 
-7. 
-8. 
+6. convert anything needed to match
+
+<img width="1919" height="1027" alt="image" src="https://github.com/user-attachments/assets/62382ecc-6af9-478c-b987-551de4be42b1" />
+
+7. Create Guassian Splatt asset
+
+<img width="1919" height="977" alt="image" src="https://github.com/user-attachments/assets/cfd38df2-7c4c-42e5-90c6-42e0387450f0" />
+
+8. drag and drop .ply and view it
+
+Result: UNITY viewing .PlY:
+
+
+
+https://github.com/user-attachments/assets/fa48bbb3-f3b5-40ad-94f3-7fcc5600c501
+
+
+
 9. 
 10. 
 11. 
