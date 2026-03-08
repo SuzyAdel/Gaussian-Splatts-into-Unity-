@@ -30,9 +30,12 @@ I wrote a command to trim the video to a few seconds whree the video is how=ceri
 
  - ulter settings based on video , in this case
  - <img width="421" height="362" alt="image" src="https://github.com/user-attachments/assets/bc727191-0af6-43de-88b5-91e567f93d6b" />
+ 
  - try alignment and remove small (noise compartments) and repeat aligning , this improves quality
  - ulter settings again to orginal down sca;e and error reprojection 
+
 <img width="421" height="422" alt="image" src="https://github.com/user-attachments/assets/af485a4f-8eda-43aa-bf2e-83a060be89e7" />
+
 - export settings to colmap , as images with orginal namimg
 - <img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/bddff2eb-14ef-4a35-9dda-840e2fd85d99" />
 
@@ -55,7 +58,21 @@ https://github.com/user-attachments/assets/ce0f6f73-c3c2-4517-9d16-d7d31d76b898
 
 then export as ply , if we need to remove a bacground edit or clean we can use super splat but it is good enough to take from there and import on unity 
 
-4. 
-5. 
+4. clone SPZ Unity Importer to import the .ply in unity
+   
+link: https://github.com/aras-p/UnityGaussianSplatting
+
+<img width="1464" height="740" alt="image" src="https://github.com/user-attachments/assets/99a734e6-a2d7-47b4-96c3-044a3cf0e372" />
+<img width="1007" height="321" alt="image" src="https://github.com/user-attachments/assets/b9e0cdf5-0678-4453-8574-3a8395d39184" />
+
+
+5. pick HDRP to match the latest Unity
+   
+<img width="1857" height="820" alt="image" src="https://github.com/user-attachments/assets/be559b5c-fe69-4d5c-9d86-e57829e6f218" />
+
 6. 
 7. 
+8. 
+9. 
+10. 
+11. 
