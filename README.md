@@ -87,7 +87,17 @@ Result: UNITY viewing .PlY:
 https://github.com/user-attachments/assets/fa48bbb3-f3b5-40ad-94f3-7fcc5600c501
 
 
+# Create a walkthrough view in Guassian Splatt
 
+Cinemachine is built exactly for this "drone fly-through" or "architectural walkthrough" style.
+
+🎥 Why Cinemachine is the Best Choice?
+
+-- Virtual Camera System: You can set up "Waypoints" (spots) in your office and the camera will automatically glide between them with perfect math.
+
+-- Dolly Tracks: This is the secret to that "Drone" look. You draw a path (a line) through your office, and the camera follows it like it's on a rail.
+
+-- Noise (Handheld feel): You can add a "6D Shake" or "Drone Noise" to make the walkthrough feel like it was filmed by a real FPV drone.
 9. 
 10. 
 11. 
