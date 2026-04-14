@@ -143,5 +143,26 @@ https://github.com/user-attachments/assets/eb90abc3-7b02-4e0a-92cb-46da20f89c97
 
 Trial 2: 
 
+Knot,X,Y (Adjusted Height),Z
+
+Knot [0],20.0,10.0,0.0
+
+Knot [1],14.1,12.5,14.1
+
+Knot [2],0.0,15.0,20.0
+
+Knot [3],−14.1,16.5,14.1
+
+Knot [4],−20.0,18.0,0.0
+
+Knot [5],−14.1,16.5,−14.1
+
+Knot [6],0.0,14.0,−20.0
+
+Knot [7],14.1,11.5,−14.1
+
+
+https://github.com/user-attachments/assets/f4c8e881-8811-407d-b1d1-603d36124fc8
+
 
 
