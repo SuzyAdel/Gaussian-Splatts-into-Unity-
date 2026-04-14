@@ -98,6 +98,42 @@ Cinemachine is built exactly for this "drone fly-through" or "architectural walk
 -- Dolly Tracks: This is the secret to that "Drone" look. You draw a path (a line) through your office, and the camera follows it like it's on a rail.
 
 -- Noise (Handheld feel): You can add a "6D Shake" or "Drone Noise" to make the walkthrough feel like it was filmed by a real FPV drone.
-9. 
-10. 
-11. 
+
+
+9. first delete all extra cameras
+<img width="1023" height="513" alt="image" src="https://github.com/user-attachments/assets/946acd8d-8135-4648-a770-63ebb7a11f44" />
+
+
+
+10. Install Cinemachine in Unity
+
+11. Cinemachine > Spline Dolly
+<img width="1283" height="794" alt="image" src="https://github.com/user-attachments/assets/0e35908f-4105-427f-9520-ed4133890fd1" />
+
+
+12. Add Spine and Knots
+
+🛤️ What are we actually doing?
+
+Think of this like a train track:
+
+- The Spline: This is the entire "Track." It’s the invisible line that your camera will "ride" on.
+
+- The Knots: These are the "Anchors" or "Stakes" in the ground. You place these Knots exactly where you want the drone to fly. Unity then draws a smooth, curved line (the Spline) between these Knots.
+
+
+for a start try 3 knots then add the code to orbit and ulter 
+
+Knot,X,Y (Height),Z
+
+Knot [0],10.0,3.5,0.0
+
+Knot [1],−5.0,3.5,8.6
+
+Knot [2],−5.0,3.5,−8.6
+
+
+
+
+
+
