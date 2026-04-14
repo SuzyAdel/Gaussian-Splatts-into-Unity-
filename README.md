@@ -133,7 +133,15 @@ Knot [1],−5.0,3.5,8.6
 Knot [2],−5.0,3.5,−8.6
 
 
+Trial 1:
 
+https://github.com/user-attachments/assets/eb90abc3-7b02-4e0a-92cb-46da20f89c97
+
+
+- to be able to track which knott and test correctly i created a script to track so, and be able to ulter manually where the issue is as the guasian point has a slight angle
+- i also needed more knots to create a 360 like angle glide around it 
+
+Trial 2: 
 
 
 
