@@ -164,5 +164,22 @@ Knot [7],14.1,11.5,−14.1
 
 https://github.com/user-attachments/assets/f4c8e881-8811-407d-b1d1-603d36124fc8
 
+# Creating a First Person view
+
+13. added a simple move script to the camera target
+14. then edited the damping and the offset values
+15. due to the speed prefrences i added a float public value to control
+
+RESULTS :
+
+
+https://github.com/user-attachments/assets/0294aad7-b8e1-4a41-a01a-5b6305b20902
+
+
+
+
+https://github.com/user-attachments/assets/9bcb7cee-3c60-4dac-85ea-b4dc4ba96aa1
+
+
 
 
