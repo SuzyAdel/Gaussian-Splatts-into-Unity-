@@ -193,6 +193,9 @@ this can be used or switched to , however there is no option to rotate
 
 18. Update the settings to suit the projects need
 
+
+THought Process :
+
 - Tracking Target (Follow): This is the path the camera sits on; it moves the camera's physical body through the 3D space.
 
 -- The "Empty Object" (Follow)
@@ -201,8 +204,16 @@ this can be used or switched to , however there is no option to rotate
   
 -- "Look At" (Mouse/Cursor View)
 
+however, in free look it already makes the mouse look and control along with following the target 
+we then just need to fix the orbits to give 3 or more pov and there is a built in spine to move along them 
 
-19.  
 
-20. 
+19. ultering the 3 default orbits
+    
+<img width="1687" height="664" alt="image" src="https://github.com/user-attachments/assets/b612b949-d171-4b02-8ae0-492d30629566" />
+
+
+20.  
+
+21. 
 
