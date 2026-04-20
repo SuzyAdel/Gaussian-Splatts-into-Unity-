@@ -166,9 +166,14 @@ https://github.com/user-attachments/assets/f4c8e881-8811-407d-b1d1-603d36124fc8
 
 # Creating a First Person view
 
-13. added a simple move script to the camera target
-14. then edited the damping and the offset values
-15. due to the speed prefrences i added a float public value to control
+13. added a simple move script to the CameraTarget
+14. inserted a normal cenimamachine and set target to the CameraTarget (empty object)
+
+<img width="633" height="773" alt="image" src="https://github.com/user-attachments/assets/f001d251-a7d8-482f-b896-f85cd1f37b48" />
+
+   
+15. then edited the damping and the offset values
+16. due to the speed prefrences i added a float public value to control
 
 RESULTS :
 
@@ -176,10 +181,28 @@ RESULTS :
 https://github.com/user-attachments/assets/0294aad7-b8e1-4a41-a01a-5b6305b20902
 
 
-
-
 https://github.com/user-attachments/assets/9bcb7cee-3c60-4dac-85ea-b4dc4ba96aa1
 
 
+this can be used or switched to , however there is no option to rotate 
 
+# Create 3RD View Camera 
+
+17. inserted a FreeLook Camera 
+<img width="1919" height="895" alt="image" src="https://github.com/user-attachments/assets/b11a3ac5-99e8-4a13-9eba-86bfd0d875fd" />
+
+18. Update the settings to suit the projects need
+
+- Tracking Target (Follow): This is the path the camera sits on; it moves the camera's physical body through the 3D space.
+
+-- The "Empty Object" (Follow)
+
+- Look At: This is the focal point the camera's lens is locked onto; it rotates the camera's "head" to keep the object centered.
+  
+-- "Look At" (Mouse/Cursor View)
+
+
+19.  
+
+20. 
 
