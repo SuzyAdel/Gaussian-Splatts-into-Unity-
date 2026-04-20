@@ -208,12 +208,33 @@ however, in free look it already makes the mouse look and control along with fol
 we then just need to fix the orbits to give 3 or more pov and there is a built in spine to move along them 
 
 
-19. ultering the 3 default orbits
+19. ultering the 3 default orbits:
     
 <img width="1687" height="664" alt="image" src="https://github.com/user-attachments/assets/b612b949-d171-4b02-8ae0-492d30629566" />
+ this has 3 POV and moves along them 
+
+Results :
 
 
-20.  
 
-21. 
+
+https://github.com/user-attachments/assets/597d8fd8-04aa-4667-9f1b-518f8f7aa5bb
+
+
+
+
+
+20. ultering and tring sphere radius
+
+
+<img width="1704" height="896" alt="image" src="https://github.com/user-attachments/assets/42add87f-2512-4f18-9667-acbe96a1a11a" />
+
+
+
+https://github.com/user-attachments/assets/17643fb9-bd36-4b72-a895-c64a025a2c6c
+
+
+
+
+
 
