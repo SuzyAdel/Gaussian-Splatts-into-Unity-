@@ -255,3 +255,8 @@ This gave  the "most flexibility" because it combined manual movement with fixed
 
 This is the "fullest coverage" method. By using a sphere, it removed the limitations of a 2D track. It allows the camera to rotate on all axes, which is ideal for inspecting a complex, non-linear object like Stonehenge or a piece of machinery from every possible angle.
 
+
+# Trial To Use Camera Position output to create a Dolly Cinemamachine 
+
+<img width="764" height="268" alt="image" src="https://github.com/user-attachments/assets/d08ecb07-74e9-410a-bc14-093df985051e" />
+
