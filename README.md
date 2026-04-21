@@ -237,4 +237,21 @@ https://github.com/user-attachments/assets/17643fb9-bd36-4b72-a895-c64a025a2c6c
 
 
 
+# Comparson betwween cameras 
+
+1. The 8-Knot Spline (Manual)
+
+As  noted, this was "very easy to quickly spin" once set up. By placing 8 knots, you created a high-fidelity track that guaranteed the camera wouldn't "wobble". For your Digital Twin, this is the "Auto-Pilot" mode where the viewer just sits back and watches the highlights.
+
+2. First Person (Linear/Servo)
+
+ Identifed that this is great for "close-ups" but lacks rotation. In your university project, you will likely use this when the user wants to walk up to a specific piece of equipment to check a "Digital Twin" data point.
+
+3. The 3-Orbit Free Look
+
+This gave  the "most flexibility" because it combined manual movement with fixed levels. It solves the "slouching" issue by allowing the user to jump to a "Top View" if the camera is getting too close to the grass.
+
+4. The Radius Sphere
+
+This is the "fullest coverage" method. By using a sphere, it removed the limitations of a 2D track. It allows the camera to rotate on all axes, which is ideal for inspecting a complex, non-linear object like Stonehenge or a piece of machinery from every possible angle.
 
