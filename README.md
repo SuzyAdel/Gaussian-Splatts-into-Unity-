@@ -264,5 +264,7 @@ This is the "fullest coverage" method. By using a sphere, it removed the limitat
 
 <img width="1919" height="708" alt="image" src="https://github.com/user-attachments/assets/1dd3763b-2049-4d35-9e99-8d65620b8ede" />
 
-
 22. 
+
+<img width="1919" height="950" alt="image" src="https://github.com/user-attachments/assets/ff4ffec6-5b02-47bf-8c5f-4d8419789295" />
+
