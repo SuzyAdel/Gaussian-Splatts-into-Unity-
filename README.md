@@ -264,7 +264,10 @@ This is the "fullest coverage" method. By using a sphere, it removed the limitat
 
 <img width="1919" height="708" alt="image" src="https://github.com/user-attachments/assets/1dd3763b-2049-4d35-9e99-8d65620b8ede" />
 
-22. 
+22. found issues of the calulations outputs and scale issues 
 
 <img width="1919" height="950" alt="image" src="https://github.com/user-attachments/assets/ff4ffec6-5b02-47bf-8c5f-4d8419789295" />
 
+23. fixed but wrong orentation , got to skip 30 frames enough to cover paths , fixed scale
+
+<img width="1919" height="742" alt="image" src="https://github.com/user-attachments/assets/1b6804a3-0093-41e4-8160-764f8484dd8f" />
