@@ -260,3 +260,9 @@ This is the "fullest coverage" method. By using a sphere, it removed the limitat
 
 <img width="764" height="268" alt="image" src="https://github.com/user-attachments/assets/d08ecb07-74e9-410a-bc14-093df985051e" />
 
+21. first trial i created knots every frame , and this createded a large messy and noisey train , however our current goal is to alternate between quick view and walk through so we need to reduce to 20-30 knots max
+
+<img width="1919" height="708" alt="image" src="https://github.com/user-attachments/assets/1dd3763b-2049-4d35-9e99-8d65620b8ede" />
+
+
+22. 
