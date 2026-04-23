@@ -271,3 +271,11 @@ This is the "fullest coverage" method. By using a sphere, it removed the limitat
 23. fixed but wrong orentation , got to skip 30 frames enough to cover paths , fixed scale
 
 <img width="1919" height="742" alt="image" src="https://github.com/user-attachments/assets/1b6804a3-0093-41e4-8160-764f8484dd8f" />
+
+24. ultered the look at and follow on a emty target to look at and rotate on a certain point of view
+
+
+
+https://github.com/user-attachments/assets/4f2b1121-283d-4da4-8902-ff3cf2509109
+
+
