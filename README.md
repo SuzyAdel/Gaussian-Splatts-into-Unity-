@@ -307,7 +307,19 @@ https://github.com/user-attachments/assets/4f2b1121-283d-4da4-8902-ff3cf2509109
 
 
 
-3.  Now create a spline points for each room 
+3.  Now create a spline points for each room with its center look at
+
+
+
+https://github.com/user-attachments/assets/db7f6f59-727c-4e5b-ac91-004ae782f350
+
+
+
+
+
+
+
+4.  
 
 
 
