@@ -1,0 +1,42 @@
+using UnityEngine;
+using Unity.Cinemachine;
+using UnityEngine.Splines;
+
+public class SplineDollyController : MonoBehaviour
+{
+    [Header("Component Hookup")]
+    [Tooltip("Drag the CinemachineSplineCart component here.")]
+    public CinemachineSplineCart splineCart;
+
+    [Header("Movement Settings")]
+    public float moveSpeed = 0.5f;
+
+    void Update()
+    {
+        if (splineCart == null) return;
+
+        // Read input from Horizontal (Left/Right Arrows or A/D)
+        float input = Input.GetAxis("Horizontal");
+
+        if (Mathf.Abs(input) > 0.01f)
+        {
+            // Alter the position slider on the cart over time
+            splineCart.SplinePosition += input * moveSpeed * Time.deltaTime;
+
+            // Handle track looping boundaries cleanly
+            if (splineCart.SplinePosition > 1f) splineCart.SplinePosition = 0f;
+            if (splineCart.SplinePosition < 0f) splineCart.SplinePosition = 1f;
+        }
+    }
+
+    // This helper function allows our master presenter to switch tracks on the fly
+    public void SetNewTrack(SplineContainer newTrack)
+    {
+        if (splineCart != null)
+        {
+            // Fixed: Unity 6 CinemachineSplineCart uses .Spline instead of .SplineContainer
+            splineCart.Spline = newTrack;
+            splineCart.SplinePosition = 0f; // Reset position to start of the new room
+        }
+    }
+}
