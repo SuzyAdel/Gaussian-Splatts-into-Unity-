@@ -279,3 +279,13 @@ This is the "fullest coverage" method. By using a sphere, it removed the limitat
 https://github.com/user-attachments/assets/4f2b1121-283d-4da4-8902-ff3cf2509109
 
 
+# Final Update 
+
+- How it will flow for the end-user:
+-- The user opens the application and sees the first room scan.
+
+-- They press the Right Arrow to move forward along that room's custom track to look around.
+
+-- They want to see the next section of the site, so they click the "Room 2" Button on their screen.
+
+-- The camera smoothly glides through the air, transitions to the second room's track, and hands control back to the user's arrow keys.
