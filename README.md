@@ -289,3 +289,27 @@ https://github.com/user-attachments/assets/4f2b1121-283d-4da4-8902-ff3cf2509109
 -- They want to see the next section of the site, so they click the "Room 2" Button on their screen.
 
 -- The camera smoothly glides through the air, transitions to the second room's track, and hands control back to the user's arrow keys.
+
+
+
+1. Rename the guassian splat assets to represnet each room clearly
+
+<img width="1914" height="949" alt="image" src="https://github.com/user-attachments/assets/161639af-3ed9-45dd-82f5-1a7189502dc0" />
+
+
+<img width="408" height="127" alt="image" src="https://github.com/user-attachments/assets/d3595de1-3b18-4fc5-9c52-4f3789d859a9" />
+
+
+2. Delete the Freelook camera and create a updated navigation play through
+
+
+<img width="1918" height="1010" alt="image" src="https://github.com/user-attachments/assets/79f767ab-dd62-463e-a154-fefcf73e0713" />
+
+
+
+3.  Now create a spline points for each room 
+
+
+
+
+
