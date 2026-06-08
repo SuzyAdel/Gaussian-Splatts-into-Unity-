@@ -314,6 +314,13 @@ https://github.com/user-attachments/assets/4f2b1121-283d-4da4-8902-ff3cf2509109
 https://github.com/user-attachments/assets/db7f6f59-727c-4e5b-ac91-004ae782f350
 
 
+foor in doors tou have to create path and allow to rotate and follow the spline 
+- hard look to target , and rotate with folloe target
+  
+<img width="519" height="154" alt="image" src="https://github.com/user-attachments/assets/f5d55607-2278-4d35-81f3-4d04bc57de5d" />
+
+
+https://github.com/user-attachments/assets/7e313409-540a-41e5-8532-2b145a4e54aa
 
 
 
