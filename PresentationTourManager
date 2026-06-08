@@ -1,0 +1,60 @@
+using UnityEngine;
+using Unity.Cinemachine;
+using UnityEngine.Splines;
+
+public class PresentationTourManager : MonoBehaviour
+{
+    [Header("Core Camera Setup")]
+    [Tooltip("Drag your main CinemachineCamera here")]
+    public CinemachineCamera virtualCamera;
+
+    [Tooltip("Drag the object holding your SplineDollyController script here")]
+    public SplineDollyController dollyController;
+
+    [Header("Your Room Tracks (In Order)")]
+    [Tooltip("Add your 4 tracks here in the order you want to present them")]
+    public SplineContainer[] presentationTracks;
+
+    private int currentTrackIndex = 0;
+
+    void Start()
+    {
+        if (presentationTracks.Length > 0)
+        {
+            SwapToTrack(0);
+        }
+    }
+
+    void Update()
+    {
+        if (Input.GetKeyDown(KeyCode.Space))
+        {
+            currentTrackIndex++;
+
+            if (currentTrackIndex >= presentationTracks.Length)
+            {
+                currentTrackIndex = 0;
+            }
+
+            SwapToTrack(currentTrackIndex);
+        }
+    }
+
+    private void SwapToTrack(int index)
+    {
+        SplineContainer newTrack = presentationTracks[index];
+
+        var cameraDolly = virtualCamera.GetComponent<CinemachineSplineDolly>();
+        if (cameraDolly != null)
+        {
+            cameraDolly.Spline = newTrack;
+        }
+
+        if (dollyController != null)
+        {
+            dollyController.SetNewTrack(newTrack);
+        }
+
+        Debug.Log("Successfully synced camera and controls to: " + newTrack.gameObject.name);
+    }
+}
