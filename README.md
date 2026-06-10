@@ -320,8 +320,7 @@ foor in doors tou have to create path and allow to rotate and follow the spline
   
 <img width="519" height="154" alt="image" src="https://github.com/user-attachments/assets/f5d55607-2278-4d35-81f3-4d04bc57de5d" />
 
-ROOM 1;
-
+ROOM 1:
 https://github.com/user-attachments/assets/7e313409-540a-41e5-8532-2b145a4e54aa
 
 
@@ -329,13 +328,11 @@ https://github.com/user-attachments/assets/7e313409-540a-41e5-8532-2b145a4e54aa
 ROOM 2: 
 https://github.com/user-attachments/assets/4fff626f-5948-4c53-8047-801556967a44
 
+CAFTERIA:
+https://github.com/user-attachments/assets/87197491-3770-4a72-8caa-242f0d9adb3f
 
 
-
-
-
-
-4.  
+4.  Now to inter-change 
 
 
 
