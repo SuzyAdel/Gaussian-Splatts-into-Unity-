@@ -310,6 +310,7 @@ https://github.com/user-attachments/assets/4f2b1121-283d-4da4-8902-ff3cf2509109
 3.  Now create a spline points for each room with its center look at
 
 
+STONEHEDGE : 
 
 https://github.com/user-attachments/assets/db7f6f59-727c-4e5b-ac91-004ae782f350
 
@@ -319,8 +320,16 @@ foor in doors tou have to create path and allow to rotate and follow the spline
   
 <img width="519" height="154" alt="image" src="https://github.com/user-attachments/assets/f5d55607-2278-4d35-81f3-4d04bc57de5d" />
 
+ROOM 1;
 
 https://github.com/user-attachments/assets/7e313409-540a-41e5-8532-2b145a4e54aa
+
+
+
+ROOM 2: 
+https://github.com/user-attachments/assets/4fff626f-5948-4c53-8047-801556967a44
+
+
 
 
 
